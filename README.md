@@ -1,1 +1,3 @@
 # LongBoard
+
+#Added Schematic
